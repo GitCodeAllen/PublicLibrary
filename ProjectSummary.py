@@ -3,7 +3,7 @@
 import os
 
 #需要统计行数的文件后缀
-Suffix = {".cpp",".h",".hpp",".cxx"}
+Suffix = {".c",".cpp",".h",".hpp",".cxx"}
 #目录路径
 Path = "E:\\test"
 
